@@ -1,0 +1,38 @@
+// colors
+$color-purple-light: rgb(91 95 199);
+$color-purple: rgb(68 71 145);
+$color-purple-dark: rgb(50 53 112);
+$color-black-light: rgb(173 170 170);
+$color-white: rgb(255 255 255);
+$color-white-dark: rgb(245 245 245);
+$color-grey: rgb(243 242 241);
+$color-black: rgb(0 0 0);
+$color-black-font: rgb(66 66 66);
+$color-red: rgb(211 47 47);
+$color-beige-light: rgb(237 235 233);
+$color-beige: rgb(236 233 229);
+$color-blue: rgb(0 120 215);
+$color-blue-light: rgb(220 236 249);
+$color-blue-dark: rgb(40 100 145);
+$color-blue-lighter: rgb(186 218 243);
+
+// fonts sizes
+$font-size-base: 1.8rem;
+$font-size-small: 1.5rem;
+$font-size-large: 2rem;
+
+// elements sizes
+$content-width: 1600px;
+$header-height: 50px;
+$footer-height: 50px;
+$main-page-header: 45px;
+$calendar-header-height: 50px;
+
+// urls constants
+$github-logo-url: url("https://res.cloudinary.com/rss-collection/image/upload/v1652345776/github_ke79xc.svg");
+
+// shadows
+$box-shadow-basic: 0 0 2px rgb(0 0 0 / 12%), 0 8px 16px rgb(0 0 0 / 14%);
+
+// filters
+$filter-blue-color: invert(36%) sepia(89%) saturate(1967%) hue-rotate(173deg) brightness(95%) contrast(101%);
