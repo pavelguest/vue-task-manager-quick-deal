@@ -51,8 +51,4 @@ const router = new VueRouter({
   ],
 });
 
-router.beforeEach((to, from, next) => {
-  next({ name: urlNames.MAIN_PAGE });
-});
-
 export default router;
